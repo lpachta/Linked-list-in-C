@@ -135,6 +135,8 @@ void makeLinkedListFromArray(NODE_HEADER* header, float arr[], int n){
   }
 }
 
+//ahoj ahoja jhoj
+
 
 //int main(int argc, char *argv[])  // pro parametry prikazoveho radku
 int main(void)
